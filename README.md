@@ -13,11 +13,6 @@ A simple and responsive **Increment & Decrement Counter App** built using **Reac
 
 ---
 
-## 🖼 Screenshot
-![Counter App Screenshot](./screenshot.png)
-
----
-
 ## 🛠 Tech Stack
 - **React** (JavaScript library for UI)
 - **Tailwind CSS** (Utility-first CSS framework)
@@ -29,21 +24,15 @@ A simple and responsive **Increment & Decrement Counter App** built using **Reac
 1. **Clone the repository**
    ```bash
    git clone https://github.com/Adityasingh2oo4/counter-app.git
-Navigate to the project folder
-
-bash
-Copy
-Edit
+   
+2.Navigate to the project folder
+```bash
 cd counter-app
-Install dependencies
 
-bash
-Copy
-Edit
+3.Install dependencies
+```bash
 npm install
-Run the app in development mode
 
-bash
-Copy
-Edit
+4.Run the app in development mode
+```bash
 npm start
