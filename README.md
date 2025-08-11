@@ -22,9 +22,9 @@ A simple and responsive **Increment & Decrement Counter App** built using **Reac
 ## 📦 Installation
 
 1. **Clone the repository**
-   ```bash
-   git clone https://github.com/Adityasingh2oo4/counter-app.git
-   ```
+```bash
+git clone https://github.com/Adityasingh2oo4/counter-app.git
+```
    
 2.Navigate to the project folder
 ```bash
